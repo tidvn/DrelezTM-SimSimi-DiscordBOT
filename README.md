@@ -4,7 +4,7 @@ Simi DiscordBOT by DrelezTM
 ## Installation
 ```bash
 > git clone https://github.com/DrelezTM/SimiBOT-Discordjs
-> cd Simple-DiscordBOT
+> cd SimiBOT-Discordjs
 > Fill in the CHANNEL ID in config.json
 > Fill in the BOT TOKEN in config.json
 > bash install.sh
