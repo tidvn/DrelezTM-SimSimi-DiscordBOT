@@ -1,4 +1,4 @@
-# Simple-DiscordBOT
+# SimSimi-DiscordBOT
 Simi DiscordBOT by DrelezTM
 
 ## API SimSimi
