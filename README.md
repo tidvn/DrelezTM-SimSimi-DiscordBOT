@@ -7,7 +7,7 @@ Simi DiscordBOT by DrelezTM
 * API : [API SimSimi](http://zrilbot.hopto.org/api/simi?text=Hello)
 
 ## SimiBOT
-SimiBOT : [Simi](https://simibot.glitch.me)
+SimiBOT : [SimiBOT Discord](https://simibot.glitch.me)
 
 ## Installation
 ```bash
