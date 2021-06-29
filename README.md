@@ -2,8 +2,8 @@
 Simi DiscordBOT by DrelezTM
 
 ## API SimSimi
-Author : [FazrilDev](https://github.com/FazrilDev)
-Website : [ZrilBOT](http://zrilbot.hopto.org)
+Author : [FazrilDev](https://github.com/FazrilDev)\n
+Website : [ZrilBOT](http://zrilbot.hopto.org)\n
 API : [API SimSimi](http://zrilbot.hopto.org/api/simi?text=Hello)
 
 ## SimiBOT
