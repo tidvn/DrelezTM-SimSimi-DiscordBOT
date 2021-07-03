@@ -11,8 +11,8 @@ SimiBOT : [SimiBOT Discord](https://simibot.glitch.me)
 
 ## Installation
 ```bash
-> git clone https://github.com/DrelezTM/SimiBOT-Discordjs
-> cd SimiBOT-Discordjs
+> git clone https://github.com/DrelezTM/SimiBOT-DiscordBOT
+> cd SimiBOT-DiscordBOT
 > Fill in the CHANNEL ID in config.json
 > Fill in the BOT TOKEN in config.json
 > bash install.sh
