@@ -3,8 +3,8 @@ SimSimi DiscordBOT by DrelezTM
 
 ## API SimSimi
 * Author : [FazrilDev](https://github.com/FazrilDev)
-* Website : [ZrilBOT](http://zrilbot.hopto.org)
-* API : [API SimSimi](http://zrilbot.hopto.org/api/simi?text=Hello)
+* Website : [ZrilBOT](http://uptime-glitch-zril.glitch.me)
+* API : [API SimSimi](http://uptime-glitch-zril.glitch.me/api/simi?text=Hello)
 
 ## SimiBOT
 SimiBOT : [SimiBOT Discord](https://simibot.glitch.me)
