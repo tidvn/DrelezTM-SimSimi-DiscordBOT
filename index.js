@@ -24,7 +24,7 @@ async function startBot(){
     if(message.channel.id !== config.channelid) return
     const content = message.content
     if (message.author.bot) return;
-    const req = await fetchJson(`http://zrilbot.hopto.org/api/simi?text=${encodeURIComponent(content)}`, {method: 'get'});
+    const req = await fetchJson(`http://uptime-glitch-zril.glitch.me/api/simi?text=${encodeURIComponent(content)}`, {method: 'get'});
     if(!req.status) return message.channel.send("Handler Error");
     message.lineReply(req.response);
   });
